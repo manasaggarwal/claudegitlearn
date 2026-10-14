@@ -28,4 +28,4 @@ todo/cli.py      command line interface
 tests/           unit tests
 .github/         PR template + automatic test workflow
 EXERCISES.md     your Git practice tasks
-```
+```Created by YOUR NAME while learning GitHub.
