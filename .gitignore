@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# App data and secrets
+tasks.json
+.env
+
+# VS Code
+.vscode/
